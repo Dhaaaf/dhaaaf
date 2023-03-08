@@ -4,6 +4,8 @@ I am a tech enthusiast who used to work with private equity firms, helping them 
 
 After migrating to the U.S from Pakistan when I was 18 I went to the University of Michigan where I graduated in three years with a neuroscience degree before getting a masters in business. My journey has been exciting and full of adventures so far, and i'm excited to keep on learning and growing in a career in the tech industry.
 
+[![Fahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhaaaf)](https://github.com/dhaaaf/github-readme-stats)
+
 ## 🔧 Tech Stack
 
 Here are some of the technologies I have been working with:
