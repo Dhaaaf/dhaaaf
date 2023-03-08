@@ -1,12 +1,6 @@
-# Hi there, I'm Fahd! 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&repeat=false&width=1000&lines=Hi+I'm+Fahd!+A+former+consultant+turned+Software+Dev!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Software+Engineer)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Former+Consultant)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Writer+and+Adventurer)](https://git.io/typing-svg)
-
-I am a tech enthusiast who used to work with private equity firms, helping them buy various tech products to enhance their portfolio.
+I'm a tech enthusiast who used to work with private equity firms, helping them buy various tech products to enhance their portfolio.
 
 After migrating to the U.S from Pakistan when I was 18 I went to the University of Michigan where I graduated in three years with a neuroscience degree before getting a masters in business. My journey has been exciting and full of adventures so far, and i'm excited to keep on learning and growing in a career in the tech industry.
 
@@ -33,7 +27,7 @@ Here are some of the technologies I have been working with:
 
 ## 🎉 Interests
 
-Here are some of the things I enjoy outside of coding:
+When i'm not coding i'm usually engaged with:
 
 - Football ⚽️
 - Writing Short Stories 📝
