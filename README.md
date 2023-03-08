@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&repeat=false&width=1000&lines=Hi+I'm+Fahd!+A+former+consultant+turned+Software+Dev!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=1000&lines=Hi+I'm+Fahd!+A+former+consultant+turned+Software+Dev!)](https://git.io/typing-svg)
 
 I'm a tech enthusiast who used to work with private equity firms, helping them buy various tech products to enhance their portfolio.
 
