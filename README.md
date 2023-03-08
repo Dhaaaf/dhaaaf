@@ -1,4 +1,10 @@
-# Hi there, I'm Fahd, a Former Consultant Turned Software Developer! 👋
+# Hi there, I'm Fahd! 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Software+Engineer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Former+Consultant)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Writer+and+Adventurer)](https://git.io/typing-svg)
 
 I am a tech enthusiast who used to work with private equity firms, helping them buy various tech products to enhance their portfolio.
 
