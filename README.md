@@ -41,4 +41,4 @@ When i'm not coding i'm usually engaged with:
 - LinkedIn: https://www.linkedin.com/in/fahdahsan/
 - Wellfound / AngelList: https://angel.co/u/fahd-ahsan
 
-Thank you for visiting my profile! I am always looking for new opportunities to learn and grow as a developer, so please feel free to reach out to me with any questions or just to chat.
+Thanks for visiting my profile! I'm always looking for new opportunities to learn and grow as a developer, so please feel free to reach out to me with any questions or just to chat.
