@@ -1,8 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=FFFFFF&width=1000&lines=Hi+I'm+Fahd!+A+former+consultant+turned+Software+Dev!)](https://git.io/typing-svg)
 
-I'm a tech enthusiast who used to work with private equity firms, helping them buy various tech products to enhance their portfolio.
-
-After migrating to the U.S from Pakistan when I was 18 I went to the University of Michigan where I graduated in three years with a neuroscience degree before getting a masters in business. My journey has been exciting and full of adventures so far, and i'm excited to keep on learning and growing in a career in the tech industry.
+I'm a tech enthusiast who used to work with private equity firms, helping them buy various tech products to enhance their portfolio. Now i get to work on building out these products instead.
 
 ## 💻 Tech Stack
 
